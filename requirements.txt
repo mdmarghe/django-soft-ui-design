@@ -3,6 +3,7 @@ gunicorn
 python-dotenv
 whitenoise
 django-theme-soft-design==1.0.10
+Pillow
 
 # psycopg2-binary
 # mysqlclient
